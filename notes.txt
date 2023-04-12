@@ -1,0 +1,3 @@
+- how to autocomplete in vscode
+- why live server doesnt auto update
+
